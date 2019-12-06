@@ -21,7 +21,7 @@ notebook	start	page	title	details
 3	11-2016	99	"DBS/stim for state change"	"Can we use stimulation to modulate the biophysical recovery state of neuron?"
 3	11-2016	105	"Alphalogical - Coon data analysis"	"NA"
 3	11-2016	108	"Variable d - computers not modulation (4)"	"Local I is the computer. Global I is a modulator. Learn to do independent continuous control of both?"
-3	11-2016	109 "Unbalanced amplification" "If you kills cells in a precise balanced system, can it learn to recover? Does this tell us something about disease?"
+3	11-2016	109	"Unbalanced amplification"	"If you kills cells in a precise balanced system, can it learn to recover? Does this tell us something about disease?"
 3	11-2016	112	"Variable d - at multiple scales (5)"	"NA"
 3	11-2016	115	"Stimulation, synchrony and slope"	"NA"
 3	11-2016	116	"DFORCE - information capacity"	"NA"
