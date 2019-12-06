@@ -28,9 +28,9 @@ notebook	start	page	title	details
 3	11-2016	118 "Prototype for map and mix"	
 3	11-2016	120	"Alphalogical - in the big picture"	NA
 3	11-2016	123	"DFORCE - learned threshold"	NA
-3	11-2016	125	"Voltage budget (5) - defining communication"	NA
+3	11-2016	125	"Voltage budget - defining communication"	NA
 3	11-2016	135 "Chaotic orbits with margin separation"	"Is that even a sensible idea?"
-3	11-2016	137	"Voltage budget (6) - defining communication"	NA
+3	11-2016	137	"Voltage budget - defining communication"	NA
 3	11-2016	147 "SZ project notes"	NA
 3	11-2016	150	"DFORCE - framing notes"	NA
 3	11-2016	152 "A Kumamoto model with bursting oscillators"	NA
@@ -41,10 +41,35 @@ notebook	start	page	title	details
 4	2-2017	15	"Eigenanalysis to determine is a disease is somatic or dendritic"	"Using Mel to separate scales and test sensitivity"
 4	2-2017	16	"Mel versus the modern world"	"ie ANNs"
 4	2-2017	23	"Oscillations and permutation entropy"	NA
-3	2-2017	33	"Voltage budget (6) - operations"	NA
+3	2-2017	33	"Voltage budget - operations"	NA
 3	2-2017	35	"Generalizing dynamical systems to state families"	NA
 3	2-2017	40	"Pacological 2 - revisited"	NA
-3	2-2017	50	"Voltage budget (7) - formalizing computation"	NA
-3	2-2017	57	"Notes on biophysical ML"	"A kernel pitch"
+3	2-2017	50	"Voltage budget - formalizing computation"	NA
+3	2-2017	57	"Notes on biophysically meaningful ML"	"A kernel pitch"
 3	2-2017	60	"Selective amplification, eigenvalues, shape, and stimulation"	NA
 3	2-2017	61	"Tenets of fast theory"	"A kernel pitch"
+4	11-2017	1	"Notes on differential privacy"	NA
+4	11-2017	2	"BOLD storm"	"Can we use the PSF trick from storm microscopy on BOLD data? Super resolution fMRI/MRI?"
+4	11-2017	7	"Notes on differential privacy"	NA
+4	11-2017	23 	"Variable d - erfan conversation notes"	NA
+4	11-2017	27	"Voltage budget - a spike view"	NA
+4	11-2017	28	"Voltage budget - an alternate definition"	NA
+4	11-2017	39	"Big theory - a google pitch"	NA
+4	11-2016	41	"Notes on Zhang 2016" "A random weights in ANNs paper"
+4	11-2016	45	"Notes on Arpin 2017" "A random weights in ANNs paper"
+4	11-2016	47	"Notes on Bengio 2009" "A random weights in ANNs paper"
+4	11-2017	57	"Big theory - a google pitch"	NA
+4	11-2017	58 	"Variable d - algorithm design"	NA
+4	11-2017	62 	"Variable d - resource framing"	NA
+4	11-2017	81	"Big theory - full details"	"This is where is came together-ish"
+4	11-2017	86 	"Variable d - models and algorithms"	"Gearing up to finally build something"
+4	11-2017	112	"Big theory - biological search"	"First use of my circuit monte carlo idea; high throughput theory"
+4	11-2017	117	"Counterfactual fairness (2)"	"Use a combination of causal models and differential privacy to make the world better, really slowly?"
+4	11-2017	118 "N p alternate"	NA
+4	11-2017	132	"Physicalist interpretability"	"Very nonspecific ideas about this"
+4	11-2017	134	"Counterfactual fairness (3)"	NA
+4	11-2017	141	"Voltage budget - shadow mode"	NA
+4	11-2017	143	"Voltage budget - consensus and draft notes"	NA
+4	11-2017	144	"Variable d - optogenetic control"	"A loose Hires pitch"
+4	11-2017	145	"Voltage budget - consensus and draft notes"	NA
+
