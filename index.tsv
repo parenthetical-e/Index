@@ -135,15 +135,39 @@ notebook	start	page	title	details
 7	4-2018	95	"HHH - implementation design"	"NA"
 7	4-2018	101	"What use is theory? Or how to make ANNs tell us simple things"	"A way to make ANNs do theory by first making them learn heuristics"
 7	4-2018	107	"Kinds of information games. Or, academic games."	"NA"
-
-
-
-
-
-
-
-
-
-
-
-
+8	4-2018	1	"SZ review response"	"NA"
+8	4-2018	5	"Deep accumulator models"	"NA"
+8	4-2018	13	"Differential basal ganglia"	"The initial notes"
+8	4-2018	19	"Voltage budget, elife reviews"	"NA"
+8	4-2018	23	"Auto-theory"	"NA"
+8	4-2018	28	"Making a heuristic pool?"	"NA"
+8	4-2018	33	"Stumbler-strategist interactions in Wytthoffs"
+8	4-2018	39	"Wythoffs, notes"	"NA"
+8	4-2018	39	"Azad aims, notes"	"NA"
+8	4-2018	41	"Synthetic opponent?"	"Huh?"
+8	4-2018	43	"Phase gating and VB"	"NA"
+8	4-2018	47	"Azad: make a game theory detector"	"Develop an alg that finds states in big video games that are locally game theory-esque. In these cases it finds the Nash automagically"
+8	4-2018	49	"Cortex, BG, accumulation, some AI notes"	"NA"
+8	4-2018	50	"DeepMind, ForTheWin, notes"	"An alg that shifts from individual top group rewards as play improves. Neat and simple."
+8	4-2018	51	"Creating an evidence field?"	"How to define continuous Accumulator spaces."
+8	4-2018	58	"Defining a theory detector?"	"Use temporal invariance to learn state-space invariances"
+8	4-2018	63	"Cooperation and competition!"	"Often those who want to kill you also teach you, by example."
+8	4-2018	63	"Action only representations (AA)"	"The world wants to kill me! Treat the world as an agent that you are in zero sum game with. If you win, the world looses?"
+8	4-2018	85	"Game theory, notes"	"NA"
+8	4-2018	91	"Players on U"	"A long winded way to re-invent stacking actions/states during multiagent play"
+8	4-2018	95	"The cost of friendship, more on Cooperation and competition!"	"NA"
+8	4-2018	111	"Action fields or flow"	"NA"
+8	4-2018	113	"Learning leapfrog"	"Where I slowly come to terms with multiagent play training"
+8	4-2018	120	"The cost of friendship, more on that"	"NA"
+8	4-2018	128	"Heuristic and ANNs, where to go?"	"What does a new but fundamental result in learning heuristics look like? What is a big result?"
+8	4-2018	137	"Valuable information, notes"	"The real beginning of the dilemma work...."
+8	4-2018	139	"AA representations"	"NA"
+8	4-2018	140	"Valuable information and curiosity"	"NA"
+8	4-2018	141	"Curiosity helper"	"NA"
+8	4-2018	143	"Waves and games"	"Loose speculation about links between coordination in oscillations and multi-agent games"
+8	4-2018	157	"Accumulation, with urgent states"	"The accumulator model I plated with was state-less (pi(a)). Here I used urgency to add state dependence."
+8	4-2018	159	"SLAC professor pitch"	"NA"
+8	4-2018	161	"The equilibrium of information"	"Speculation about equilibrium play in pure information games"
+8	4-2018	161 "Selective amplification in action"	"Huh"
+8	4-2018	169	"Azad, next directions"	"NA"
+8	4-2018	171	"Action channels, fields, urgency(s) and the basal ganglia"	"NA"
