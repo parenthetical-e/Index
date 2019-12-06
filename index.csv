@@ -1,6 +1,6 @@
 notebook	start	page	title	details
 3	11-2016	1	"SFN 2016 notes"	NA
-3	11-2016	15	"Voltage budget (1)"	NA
+3	11-2016	15	"Voltage budget (1)"	"Can we quantify healthy oscillation by studying budgets of voltage, some for computation some for oscillation?"
 3	11-2016	33	"Ideas for Kernel (1)"	"We should treat Kernel as neuroscience accelerator"
 3	11-2016	40	"Voltage budget (2)"	NA
 3	11-2016	43	"Voltage budget (3)"	NA
@@ -12,9 +12,9 @@ notebook	start	page	title	details
 3	11-2016	69	"Oscillations and homeostasis (1)"	"VB based"
 3	11-2016	70	"Alphalogical w/out PAC"	"When I realized alpha is the headline"
 3	11-2016	73	"Alphalogical - burst as gain"	NA
-3	11-2016	74	"Variable d: global and local I control (1)"	NA
-3	11-2016	80	"DFORCE - variable discreteness"	NA
-3	11-2016	84	"Chirps made of Wilson-Cowan"	"Note after a meeting with Li and Vineet from the Mayberg lab"
+3	11-2016	74	"Variable d: global and local I control (1)"	"Can we view neural inhibition as a control know for network dimensionality? Does inhibition control cognitive capacity?"
+3	11-2016	80	"DFORCE - variable discreteness"	"A model system for learning continuous dynamics using discrete representations"
+3	11-2016	84	"Chirps made of Wilson-Cowan"	"Notes after a meeting with Li and Vineet from the Mayberg lab"
 3	11-2016	83	"Variable d (2)"	NA
 3	11-2016	92	"Variable d - a related conjecture (3)"	NA
 3	11-2016	96	"Alphalogical - Coon data analysis"	NA
@@ -35,8 +35,16 @@ notebook	start	page	title	details
 3	11-2016	150	"DFORCE - framing notes"	NA
 3	11-2016	152 "A Kumamoto model with bursting oscillators"	NA
 3	11-2016	153	"Detecting bursts in the time domain"	NA
-
-
-
-
-
+4	2-2017	3	"Disease as problem in brain math?"	"A kernel pitch. Treat the math of single neurons and networks as separate kind of computing systems, each with very different role. Neurons do learning and networks do selecting".
+4	2-2017	5	"Rapid theory iteration"	"A kernel pitch."
+4	2-2017	5	"More notes on 2.5d model"	"A variation of Barlett Mel's work."
+4	2-2017	15	"Eigenanalysis to determine is a disease is somatic or dendritic"	"Using Mel to separate scales and test sensitivity"
+4	2-2017	16	"Mel versus the modern world"	"ie ANNs"
+4	2-2017	23	"Oscillations and permutation entropy"	NA
+3	2-2017	33	"Voltage budget (6) - operations"	NA
+3	2-2017	35	"Generalizing dynamical systems to state families"	NA
+3	2-2017	40	"Pacological 2 - revisited"	NA
+3	2-2017	50	"Voltage budget (7) - formalizing computation"	NA
+3	2-2017	57	"Notes on biophysical ML"	"A kernel pitch"
+3	2-2017	60	"Selective amplification, eigenvalues, shape, and stimulation"	NA
+3	2-2017	61	"Tenets of fast theory"	"A kernel pitch"
