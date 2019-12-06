@@ -4,4 +4,4 @@ An index of my ideas. The notes themselves are written on good old fashion paper
 
 Or....
 
-How I thought many silly things, to make more silly things, that were eventially results.
+How I thought many silly things, to make more silly things, that were eventually results.
