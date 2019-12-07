@@ -267,7 +267,7 @@ notebook	start	page	title	details
 11	1-2018	94	"Information value, optimal value"	"Some quick and pointless thoughts"
 11	1-2018	103	"Dynamic programming, notes on Roughgardner"	"NA"
 11	1-2018	111	"Waveform shape as a modulator"	"Treat the waveform as an optimization problem, targeting excitability, error and synchrony."
-11	1-2018	115	"Voltage budget, #2",	"Huh"
+11	1-2018	115	"Voltage budget, #2"	"Huh"
 11	1-2018	117	"Proof strategies for greedy algorithms"	"NA"
 11	1-2018	129	"World models versus local functions"	"What if we viewed neurons as having two goals. Learn a world model. Learn a local function. Use generalized dual value to balance in a single cell?"
 11	1-2018	133	"Dynamic programming, proof on optimal completion time"	"Roughgardner notes"
