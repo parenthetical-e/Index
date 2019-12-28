@@ -422,7 +422,7 @@ notebook	start	page	title	details
 14	7-2019	175	"Replay based RL driven by E-explore"	"NA"
 14	7-2019	175	"Faculty wisdom from T and B"	"NA"
 14	7-2019	183	"E-search and dual value"	"NA"
-15	1-2019	1	"Busaki talk (SFN 2019)"	"Weak and strong tuning. Weak and strong evolution. Making more sense of log normal weights and rates"
+15	1-2019	1	"Busaki talk (SFN 2019)"	"Weak and strong tuning. Weak and strong effects. Making more sense of log normal weights and rates"
 15	1-2019	8	"Cripsr and dynamic equilibrium"	"Thoughts on the recent biology as a dyn eq problem. Based on ideas seen during SFN2019"
 15	1-2019	9	"Principled eta"	"Worries and ideas on setting dual values eta driven by a conversation at SFN2019"
 15	1-2019	11	"Single neuron swarm"	"Study multiagent coordination systems where agents are both deep nets and single neurons with complex dendrites"
