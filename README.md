@@ -10,6 +10,6 @@ Everytime I fill a notebook up, I copy it's table of contents to this index. I o
 
 This index is ever growing.
 
-If something interests you. [Email me](erik.exists@gmail.com). 
+If something interests you. [Email me](mailto:erik.exists@gmail.com). 
 
 I would always rather share credit, and get more done.
