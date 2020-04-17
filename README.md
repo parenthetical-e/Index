@@ -1,5 +1,8 @@
 # Index 
-An index of my ideas. See, `index.tsv`.
+An index of my ideas. 
+
+See, `index.tsv`.
+
 
 # Index (long version)
 A lot of my thinking happens by writing. I write in these small notebooks. They look like this:
