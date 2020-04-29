@@ -13,4 +13,4 @@ Everytime I fill a notebook up, I copy it's table of contents to this index. I o
 
 This index is ever growing. If something interests you. [Email me](mailto:erik.exists@gmail.com). 
 
-Here's my [CV](https://github.com/parenthetical-e/CV/blob/master/ep-cv.pdf) if you would like to know more about me, professionally.
+Here's my [CV](https://github.com/parenthetical-e/CV/blob/master/ep-cv.pdf) if you would like to know more about me.
