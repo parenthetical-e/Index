@@ -15,4 +15,4 @@ This index is ever growing.
 
 If something interests you. [Email me](mailto:erik.exists@gmail.com). 
 
-I would always rather share credit, and get more done.
+Here's my [CV](https://github.com/parenthetical-e/CV/blob/master/ep-cv.pdf) if you would like to know more about me, professionally.
