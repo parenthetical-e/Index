@@ -557,7 +557,7 @@ notebook	start	page	title	details
 17	5-2020	117	"A plan: space fortress and beyond!"
 17	5-2020	120	"HP hyper-replicators"	"More notes on this idea (which works well in practice)"
 17	5-2020	123	"Development and hyper-replicators"	""
-17	5-2020	125 "Publication plan for hyper-replicators" "How to build up to completely self-tuning RL. Lifetime self tuning, that is"
+17	5-2020	125	"Publication plan for hyper-replicators"	"How to build up to completely self-tuning RL. Lifetime self tuning, that is"
 17	5-2020	127	"No reward is additive"	"Reward kinds must change or need different policies?"
 17	5-2020	130	"False dichotomy between explore and exploit?"	"Wild speculations here"
 17	5-2020	143	"Rmax and Rh"	"Expecting perfect play converts Rh to greedy RL"	"A nice little insight is I do say so"
