@@ -1,7 +1,5 @@
 # Index 
-Hi. I am Erik, and here is an index of my ideas. 
-
-See, `ideas.tsv`.
+Hi. I am Erik, and here is an index of my ideas. See, `ideas.tsv`.
 
 
 # Index (long version)
