@@ -560,7 +560,7 @@ notebook	start	page	title	details
 17	5-2020	125	"Publication plan for hyper-replicators"	"How to build up to completely self-tuning RL. Lifetime self tuning, that is"
 17	5-2020	127	"No reward is additive"	"Reward kinds must change or need different policies?"
 17	5-2020	130	"False dichotomy between explore and exploit?"	"Wild speculations here"
-17	5-2020	143	"Rmax and Rh"	"Expecting perfect play converts Rh to greedy RL. A nice little insight is I do say so
+17	5-2020	143	"Rmax and Rh"	"Expecting perfect play converts Rh to greedy RL. A nice little insight is I do say so."
 17	5-2020	145	"FEVER and DFORCE"	""
 17	5-2020	149	"The food-water dilemma"	"A policy should not try and opt for both. Info bias is not about info afterall."
 17	5-2020	155	"Parkids!"	"It works!?"
