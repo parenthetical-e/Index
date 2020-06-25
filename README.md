@@ -1,5 +1,5 @@
 # Index 
-An index of my ideas. 
+Hi. I am Erik, and here is an index of my ideas. 
 
 See, `index.tsv`.
 
@@ -11,8 +11,6 @@ A lot of my thinking happens by writing. I write in these small notebooks. They 
 
 Everytime I fill a notebook up, I copy it's table of contents to this index. I often add a little note, or two, for context. But not always. 
 
-This index is ever growing.
+This index is ever growing. If something interests you [email me](mailto:erik.exists@gmail.com). 
 
-If something interests you. [Email me](mailto:erik.exists@gmail.com). 
-
-I would always rather share credit, and get more done.
+Here's my [CV](https://github.com/parenthetical-e/CV/blob/master/ep-cv.pdf) if you would like to know more about me.
