@@ -9,4 +9,6 @@ A lot of my thinking happens by writing. I write in these small notebooks. They 
 
 Everytime I fill a notebook up, I copy it's table of contents to this index. I often add a little note, or two, for context. But not always. 
 
-I decided, on a lark mostly, to make this list public. If something interests you [email me](mailto:erik.exists@gmail.com). 
+I decided, on a lark mostly, to make this list public. 
+
+If something interests you [email me](mailto:erik.exists@gmail.com). 
