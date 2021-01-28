@@ -1,5 +1,5 @@
 # Index 
-Hi. I'm Erik and here is an index of my scientific ideas. See, `ideas.csv`.
+Hi. I'm Erik. I'm research scientist at CMU. Here is an index of my scientific ideas. See `ideas.csv`.
 
 
 # Index (long version)
