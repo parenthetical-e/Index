@@ -11,4 +11,4 @@ Everytime I fill a notebook up, I copy it's table of contents to this index. I o
 
 I decided, on a lark, to make this list public. 
 
-If, surprise!, you find yourself reading through and something interests you--[email me](mailto:erik.exists@gmail.com). 
+If, surprise!, you find yourself reading through and something interests you--[email me](mailto:erik.exists@gmail.com). Let's talk about it.
